@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Gate OF STEINER",
+  "base_artist": "佐々木恵梨",
+  "createdAt": "2025-12-01T08:21:31.023658Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gate of Steiner (Acoustic Ver.)",
+      "artist": "Eri Sasaki",
+      "has_synced": false,
+      "path": "select/01_Gate_of_Steiner_(Acoustic_Ver.)_Eri_Sasaki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GATE OF STEINER",
+      "artist": "佐々木恵梨",
+      "has_synced": true,
+      "path": "select/02_GATE_OF_STEINER_佐々木恵梨.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gate_OF_STEINER",
+      "artist": "Eri_Sasaki",
+      "has_synced": true,
+      "path": "select/03_Gate_OF_STEINER_Eri_Sasaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GATE OF STEINER",
+      "artist": "Eri Sasaki",
+      "has_synced": true,
+      "path": "select/04_GATE_OF_STEINER_Eri_Sasaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GATE OF STEINER",
+      "artist": "Eri Sasaki",
+      "has_synced": true,
+      "path": "select/05_GATE_OF_STEINER_Eri_Sasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GATE OF STEINER",
+      "artist": "佐々木恵梨",
+      "has_synced": false,
+      "path": "select/pl_01_GATE_OF_STEINER_佐々木恵梨.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "GATE OF STEINER (acoustic ver.)",
+      "artist": "佐々木恵梨",
+      "has_synced": false,
+      "path": "select/pl_02_GATE_OF_STEINER_(acoustic_ver.)_佐々木恵梨.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Gate of Steiner",
+      "artist": "佐々木恵梨",
+      "has_synced": false,
+      "path": "select/pl_03_Gate_of_Steiner_佐々木恵梨.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "GATE OF STEINER",
+      "artist": "佐々木恵梨",
+      "has_synced": false,
+      "path": "select/pl_04_GATE_OF_STEINER_佐々木恵梨.txt"
+    }
+  ]
+}
